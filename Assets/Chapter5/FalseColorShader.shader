@@ -22,7 +22,7 @@ Shader "Unity Shaders Book/Chapter 5/FalseColorShader" {
 				o.color = fixed4(v.normal * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
 
 				//visualize tangent
-				o.color = fixed4(v.tangent * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
+				o.color = fixed4(v.tangent.xyz * 0.5 + fixed3(0.5, 0.5, 0.5), 1.0);
 
 				//visualize binormal
 				fixed3 binormal = cross(v.normal, v.tangent.xyz) * v.tangent.w;

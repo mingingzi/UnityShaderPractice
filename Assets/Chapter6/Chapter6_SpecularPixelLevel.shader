@@ -62,5 +62,5 @@ Shader "Unity Shaders Book/Chapter 6/Specular Pixel_Level" {
 		ENDCG
 	}
 	}
-	FallBack "Diffuse"
+	FallBack "Specular"
 }

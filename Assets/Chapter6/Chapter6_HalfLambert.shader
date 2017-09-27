@@ -1,6 +1,6 @@
 ﻿// Upgrade NOTE: replaced '_World2Object' with 'unity_WorldToObject'
 
-Shader "Unity Shaders Book/Chapter 6/Diffuse Pixel_Level" {
+Shader "Unity Shaders Book/Chapter 6/Half Lambert" {
 	Properties {
 		_Diffuse ("Diffuse", Color) = (1,1,1,1)
 	}

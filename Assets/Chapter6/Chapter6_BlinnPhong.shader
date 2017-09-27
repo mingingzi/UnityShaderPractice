@@ -63,5 +63,5 @@ Shader "Unity Shaders Book/Chapter 6/Blinn Phong" {
 		ENDCG
 	}
 	}
-	FallBack "Diffuse"
+	FallBack "Specular"
 }

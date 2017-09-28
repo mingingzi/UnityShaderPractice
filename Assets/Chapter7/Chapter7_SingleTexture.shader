@@ -3,7 +3,7 @@
 		_Color ("Color Tint", Color) = (1,1,1,1)
 		_MainTex ("MainTex", 2D) = "white" {}
 		_Specular ("Specular", Color) = (1,1,1,1)
-		_Gloss ("Gloss", Range(8.0, 256)) = 0.0
+		_Gloss ("Gloss", Range(8.0, 256)) = 20.0
 	}
 	SubShader {
 	Pass{

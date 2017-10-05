@@ -1,4 +1,4 @@
-﻿Shader "Unity Shaders Book/Chapter 8/Alpha Blend" {
+﻿Shader "Unity Shaders Book/Chapter 8/Alpha Blend Both Sided" {
 	Properties {
 		_Color ("Color Tint", Color) = (1,1,1,1)
 		_MainTex("MainTex", 2D) = "white" {}

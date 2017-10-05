@@ -1,14 +1,13 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapter8\Chapter8_AlphaBlendBothSided.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapter9\Chapter9_AlphaBlendWithShadow.shader">
     <Files>
-      <File FileName="Assets\Chapter7\Chapter7_NormalMapWorldSpace.shader" Line="1" Column="1" />
-      <File FileName="Assets\Chapter7\Chapter7_MaskTexture.shader" Line="1" Column="1" />
-      <File FileName="Assets\Chapter8\Chapter8_AlphaBlendZWrite.shader" Line="11" Column="8" />
-      <File FileName="Assets\Chapter8\Chapter8_AlphaTestBothSided.shader" Line="66" Column="23" />
-      <File FileName="Assets\Chapter8\Chapter8_AlphaTest.shader" Line="22" Column="3" />
-      <File FileName="Assets\Chapter8\Chapter8_AlphaBlendBothSided.shader" Line="70" Column="13" />
-      <File FileName="Assets\Chapter8\Chapter8_AlphaBlend.shader" Line="18" Column="3" />
+      <File FileName="Assets\Chapter9\Chapter9_ForwardRendering.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter6\Chapter6_BlinnPhongUseBuildInFunction.shader" Line="1" Column="1" />
+      <File FileName="..\Unity_Shader_Book_Code\Unity_Shaders_Book\Assets\Shaders\Chapter9\Chapter9-ForwardRendering.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter9\Chapter9_Shadow.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter9\Chapter9_AttenuationAndShadowUseBuildInFunctions.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter9\Chapter9_AlphaBlendWithShadow.shader" Line="58" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

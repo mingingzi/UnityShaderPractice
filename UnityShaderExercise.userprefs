@@ -1,13 +1,16 @@
-﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapter9\Chapter9_AlphaBlendWithShadow.shader">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Chapter10\Scene_10_3_1\ProceduralTextureGeneration.cs">
     <Files>
       <File FileName="Assets\Chapter9\Chapter9_ForwardRendering.shader" Line="1" Column="1" />
-      <File FileName="Assets\Chapter6\Chapter6_BlinnPhongUseBuildInFunction.shader" Line="1" Column="1" />
       <File FileName="..\Unity_Shader_Book_Code\Unity_Shaders_Book\Assets\Shaders\Chapter9\Chapter9-ForwardRendering.shader" Line="1" Column="1" />
       <File FileName="Assets\Chapter9\Chapter9_Shadow.shader" Line="1" Column="1" />
       <File FileName="Assets\Chapter9\Chapter9_AttenuationAndShadowUseBuildInFunctions.shader" Line="1" Column="1" />
-      <File FileName="Assets\Chapter9\Chapter9_AlphaBlendWithShadow.shader" Line="58" Column="3" />
+      <File FileName="Assets\Chapter9\Chapter9_AlphaBlendWithShadow.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter10\Chapter10_Reflection.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter10\Chapter10_Refraction.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter10\Chapter10_Mirror.shader" Line="1" Column="1" />
+      <File FileName="Assets\Chapter10\Scene_10_3_1\ProceduralTextureGeneration.cs" Line="70" Column="23" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
